@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj": {}
+    "c:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj": {
+    "c:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectUniqueName": "c:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj",
         "projectName": "dotnet-rpg",
-        "projectPath": "C:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectPath": "c:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\dotnet-rpg.csproj",
         "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\obj\\",
+        "outputPath": "c:\\Users\\hasan\\Desktop\\Programming\\dotnet-rpg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config"
